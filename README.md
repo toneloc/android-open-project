@@ -138,8 +138,7 @@ GroupName 滑动到顶端时会固定不动直到另外一个 GroupName 到达�
 
 1. QuickReturn  
 ListView/ScrollView 的 header 或 footer，当向下滚动时消失，向上滚动时出现  
-项目地址：https://github.com/lawloretienne/QuickReturn  
-Demo 地址：https://play.google.com/store/apps/details?id=com.etiennelawlor.quickreturn  
+项目地址：https://github.com/lawloretienne/QuickReturn   
 
 1. QuickReturnHeader  
 ListView/ScrollView 的 header 或 footer，当向下滚动时消失，向上滚动时出现  
